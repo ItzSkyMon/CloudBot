@@ -13,6 +13,7 @@ global.ownernumber = process.env.NOWNER
 global.owner = [
   ['089646942000'],
   ['0'],
+  ['089646942000','Terserah',true]
   [`${process.env.NOWNER}`, `${process.env.NAMAOWNER}`, true]
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
